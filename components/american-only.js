@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   "acclimate": "acclimatise",
   "acetaminophen": "paracetamol",
   "baby carriage": "pram",

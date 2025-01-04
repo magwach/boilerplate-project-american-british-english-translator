@@ -1,4 +1,4 @@
-module.exports = {
+export default{
   "abseil": "rappel",
   "accountancy": "accounting",
   "advert": "advertisement",
