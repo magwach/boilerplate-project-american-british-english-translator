@@ -1,3 +1,29 @@
-# American British Translator
+**Overview**
 
-This is the boilerplate for the American British Translator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator
+A language translation tool for converting text between American and British English.
+
+**Features**
+
+    • Accurate word and phrase translations
+    • Support for common idioms and expressions
+    • Interactive translation interface
+
+**Setup Instructions**
+
+_Clone the repository:_
+
+    git clone https://github.com/magwach/boilerplate-project-american-british-english-translator.git
+
+_Install dependencies:_
+
+    npm install
+  
+_Run the application:_
+
+    npm start
+
+**Technologies**
+
+    • Node.js
+    • Express
+    • Mocha (for testing)
